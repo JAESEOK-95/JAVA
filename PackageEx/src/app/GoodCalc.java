@@ -27,5 +27,7 @@ public class GoodCalc extends Calculator {
 		System.out.println(c.average(new int []  {2,3,4}));
 		int wa;
 		wa = 1;
+		// gd
+		
 	}
 }
