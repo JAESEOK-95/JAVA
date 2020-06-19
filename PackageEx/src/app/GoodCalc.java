@@ -25,6 +25,7 @@ public class GoodCalc extends Calculator {
 		System.out.println(c.add(2, 3));
 		System.out.println(c.substract(2, 3));
 		System.out.println(c.average(new int []  {2,3,4}));
-		int wa
+		int wa;
+		wa = 1;
 	}
 }
